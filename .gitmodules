@@ -3,8 +3,3 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "RSeqAn"]
-	path = RSeqAn
-	url = https://github.com/compbiocore/rseqan
-	shallow = true
-	registered = true
